@@ -8,3 +8,7 @@
 
 3. According to chatgpt I can use python to locally host an SMTP server that I could use to send emails to myself
    - This could allow me to implement 2fa but I would need to locally host the backend (look into this further)
+  
+4. Use canva as a mock up?
+   - This could be nice for documentation purposes so that I have an idea of what im trying to make
+   - 
