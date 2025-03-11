@@ -11,4 +11,6 @@
   
 4. Use canva as a mock up?
    - This could be nice for documentation purposes so that I have an idea of what im trying to make
-   - 
+
+5. Just a thought but if I use python for 2fa and match it with data stored in a database I might need to encrypt what im sending to the database and all security meassure are not very secure. off the top of my head the application would be weak against sql injection or just changing the source code since everything is hosted locally and stored locally.
+   - Def need to encrypt what passwords go to user table of database if it is implemented
